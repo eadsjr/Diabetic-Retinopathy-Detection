@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+# MAC OSX
+.DS_Store
+
+# ignore the training data and testing data
+train/
+test/
+selected/
